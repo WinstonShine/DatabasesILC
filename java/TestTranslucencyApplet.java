@@ -14,6 +14,7 @@ public class TestTranslucencyApplet
         try
         {
             hash = hashMD5(pass);
+            hash.a
         }
         catch (UnsupportedEncodingException | NoSuchAlgorithmException ex)
         {
